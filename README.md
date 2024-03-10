@@ -31,7 +31,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/joshmadakor/](https://www.instagram.com/
+[instagram]: https://www.instagram.com/morgan_freeman7/
 [linkedin]: https://www.linkedin.com/in/morgan-lindman-b39627176/
 
 <!--
