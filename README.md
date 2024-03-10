@@ -5,7 +5,7 @@
 <h2> BIO: This is a work in progress, template is for assistance.<h2>
 
 I voluntered in AmeriCorps working with FEMA for a year finding my calling in the career field, after many attempts my intrest in tech and coding was introduced. Currently working with the Google Cybersecurty Certificate.
-  -Be intentional about how you want to be perceived by potential employers. 
+
 
 Include your strengths and values, and be genuine about why you want to enter the cybersecurity profession.
 
