@@ -1,4 +1,4 @@
-<h1>Hi, I'm Morgan! <br/><a href="https://github.com/joshmadakor1">Programmer in Traning</a>, <a href="https://www.linkedin.com/in/morgan-lindman-b39627176/">Cybersecurity in Traning</a>
+<h1 <BODY BGCOLOR="#FFFFFF"">Hi, I'm Morgan! <br/><a href="https://github.com/joshmadakor1">Programmer in Traning</a>, <a href="https://www.linkedin.com/in/morgan-lindman-b39627176/">Cybersecurity in Traning</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
