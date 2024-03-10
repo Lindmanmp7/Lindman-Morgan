@@ -1,6 +1,8 @@
-<h1 <BODY BGCOLOR="#FFFFFF"">Hi, I'm Morgan! <br/><a href="https://github.com/joshmadakor1">Programmer in Traning</a>, <a href="https://www.linkedin.com/in/morgan-lindman-b39627176/">Cybersecurity in Traning</a>
+<h1 ">Hi, I'm Morgan! <br/><a href="https://github.com/joshmadakor1">Programmer in Traning</a>, <a href="https://www.linkedin.com/in/morgan-lindman-b39627176/">Cybersecurity in Traning</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
+
+<h2> This is a work in progress, template is for assistance.<h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
