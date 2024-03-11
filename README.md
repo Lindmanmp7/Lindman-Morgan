@@ -4,10 +4,9 @@
 
 <h2> BIO: This is a work in progress, template is for assistance.<h2>
 
-I voluntered in AmeriCorps working with FEMA for a year finding my calling in the career field, after many attempts my intrest in tech and coding was introduced. Currently working with the Google Cybersecurty Certificate.
+-I voluntered in AmeriCorps working with FEMA for a year finding my calling in the career field, after many attempts my intrest in tech and coding was introduced. Currently working with the Google Cybersecurty Certificate.
 
-
-Include your strengths and values, and be genuine about why you want to enter the cybersecurity profession.
+-I am a detictated individual who take time to complete my work to ensure quality, if needed I will crunch my numbers to meet a deadline. My values are all about honesty. I am looking to get into cybersecurty because i love tech and would like to find an intresting career to me.
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
